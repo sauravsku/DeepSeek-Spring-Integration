@@ -1,6 +1,3 @@
-Here’s a polished README.md for your GitHub repository:
-
-```markdown
 # DeepSeek-Spring-Integration 🌐🤖
 
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2%2B-brightgreen)](https://spring.io/)
@@ -126,15 +123,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Built with ❤️ by [Saurav Kumar](https://linkedin.com/in/your-profile)**  
 [![GitHub Stars](https://img.shields.io/github/stars/sauravsku/DeepSeek-Spring-Integration?style=social)](https://github.com/sauravsku/DeepSeek-Spring-Integration/stargazers)
-```
 
-This README includes:
-- Clear installation/usage instructions
-- Visual badges for key technologies
-- API documentation
-- Project structure visualization
-- Contribution guidelines
-- Social proof elements
-- Links to related resources
-
-Would you like me to add any specific section or modify the tone? 😊
